@@ -1,0 +1,41 @@
+#perfil {
+    width: 100px;
+    height: 146.37;
+}
+body {
+    margin: 0px;
+}
+
+h1,
+h2 {
+    padding: 5px 0px;
+}
+
+footer,
+header {
+    text-align: center;
+}
+
+header {
+    margin-bottom: 100px;
+}
+
+.title {
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+#name-footer {
+    background-color: #005677;
+    color: white;
+
+}
+dl {
+    margin: 0px 22px;
+}
+dd {
+    margin: 0px 79px;
+}
+a{
+    margin: 0px 5px;
+}
